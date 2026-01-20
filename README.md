@@ -1,47 +1,54 @@
-<h1 align="center">Hola 👋, soy Fabrizio</h1>
-<h3 align="center">Desarrollador Frontend | Web Apps | UI/UX</h3>
+<h1 align="center">⚡ FzxDv ⚡</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+Apps;UI+%26+UX;React+%7C+Vue+3+%7C+TypeScript" />
+</p>
 
 ---
 
-### 🧑‍💻 Sobre mí
-- 💻 Desarrollador frontend enfocado en **React, Vue 3 y TypeScript**
-- 🔥 Creo sistemas web para **farmacias, restaurantes y servicios técnicos**
-- 🧠 Me gusta optimizar interfaces y lógica de negocio
-- 🚀 En constante aprendizaje
+### 🚀 Skills
 
----
-
-### 🛠️ Tecnologías
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,firebase,git,github" />
 </p>
 
 ---
 
-### 📌 Proyectos destacados
-- 🏥 **Sistema de farmacia** – control de stock, ventas y alertas
-- 🧾 **Sistema de presupuestos** – exportación a PDF / Excel
-- 🍽️ **Menú digital para restaurante** – editable en tiempo real
-- 🔧 **Sistema para construcción y soldadura** – materiales, herramientas y procesos
-
----
-
-### 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
+### 🧠 Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=vite,nodejs,linux,figma,vercel" />
 </p>
 
 ---
 
-### 📫 Contacto
-- 📧 Email: **tuemail@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com)
-- 🌐 Portafolio: **en construcción**
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FzxDv&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzxDv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⭐ *Gracias por visitar mi perfil*
+### ⚙️ Focus
+
+<p align="center">
+  ⚡ Frontend Performance <br/>
+  ⚡ Web Systems <br/>
+  ⚡ Clean UI & Logic <br/>
+  ⚡ Real-world Projects
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FzxDv&color=38BDF8&style=flat" />
+</p>
