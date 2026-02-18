@@ -1,65 +1,63 @@
 <h1 align="center">⚡ FzxDv ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Scalable+Web+Apps;React+%7C+Vue+3+%7C+TypeScript;Clean+UI+%2B+Solid+Logic" />
+Frontend Developer
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FzxDv&color=00F7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/FzxDv?style=for-the-badge&color=00F7FF" />
-</p>
-
----
-
-## 🧠 Core Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,firebase" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,nodejs,linux,vercel,figma" />
+Building Scalable Web Applications · Clean UI · Solid Architecture
 </p>
 
 ---
 
-## ⚡ What I Build
+## 🧠 Tech Stack
 
 <p align="center">
-  🚀 Web Systems <br/>
-  ⚙️ Admin Dashboards <br/>
-  📦 Real-time Apps <br/>
-  📊 Data-driven Interfaces <br/>
-  🧩 Modular & Scalable Frontend Architecture
+
+<img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Focus
+
+- Scalable Web Systems  
+- Admin Dashboards  
+- Real-time Applications  
+- Performance Optimization  
+- Modular Frontend Architecture  
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FzxDv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzxDv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FzxDv&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzxDv&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </p>
 
 ---
 
-## 🔥 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FzxDv&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350"/>
-</p>
-
-<p align="center">
-  <b>⚡ Code. Build. Improve. Repeat.</b>
+⚡ Code · Build · Improve · Repeat
 </p>
