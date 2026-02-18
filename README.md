@@ -27,6 +27,13 @@ Building Scalable Web Applications · Clean UI · Solid Architecture
 
 <br/>
 
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Shell-111111?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
@@ -42,19 +49,7 @@ Building Scalable Web Applications · Clean UI · Solid Architecture
 - Admin Dashboards  
 - Real-time Applications  
 - Performance Optimization  
-- Modular Frontend Architecture  
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FzxDv&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzxDv&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
-</p>
+- Clean & Maintainable Code  
 
 ---
 
