@@ -43,6 +43,34 @@ Building Scalable Web Applications · Clean UI · Solid Architecture
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏥 Pharmacy Management System
+Inventory control · Sales tracking · Stock alerts · Firebase integration  
+
+### 📊 Budget & Construction System
+Materials · Tools · Procedures · PDF/Excel export  
+
+### 🍽️ Digital Restaurant Menu
+Real-time updates · Admin panel · Firebase backend  
+
+### ⚙️ Custom Admin Dashboards
+Modular architecture · Scalable structure · Performance optimized  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FzxDv&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzxDv&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+</p>
+
+---
+
 ## ⚡ Focus
 
 - Scalable Web Systems  
