@@ -1,80 +1,54 @@
 <h1 align="center">⚡ FzxDv ⚡</h1>
 
 <p align="center">
-Frontend Developer · Web Systems Engineer
-</p>
-
-<p align="center">
-Building scalable applications with clean architecture and real-world impact.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+Apps;UI+%26+UX;React+%7C+Vue+3+%7C+TypeScript" />
 </p>
 
 ---
 
-## 🧠 Tech Stack
+### 🚀 Skills
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/Shell-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,firebase,git,github" />
 </p>
 
 ---
 
-## 🚀 What I Build
-
-- Full Web Management Systems  
-- Admin Dashboards  
-- Real-time Applications  
-- Inventory & Sales Platforms  
-- Scalable Frontend Architectures  
-
----
-
-## 📊 GitHub Overview
+### 🧠 Stack & Tools
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FzxDv&show_icons=true&hide_border=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzxDv&layout=compact&hide_border=true&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vite,nodejs,linux,figma,vercel" />
 </p>
 
 ---
 
-## 💼 Featured Work
+### 📊 GitHub Activity
 
-**Pharmacy Management System**  
-Inventory · Sales · Stock alerts · Role system  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FzxDv&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-**Construction & Budget System**  
-Materials · Tools · Procedures · PDF/Excel export  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzxDv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-**Digital Restaurant Menu**  
-Real-time updates · Firebase backend  
+---
+
+### ⚙️ Focus
+
+<p align="center">
+  ⚡ Frontend Performance <br/>
+  ⚡ Web Systems <br/>
+  ⚡ Clean UI & Logic <br/>
+  ⚡ Real-world Projects
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-⚡ Code · Architect · Scale
+  <img src="https://komarev.com/ghpvc/?username=FzxDv&color=38BDF8&style=flat" />
 </p>
