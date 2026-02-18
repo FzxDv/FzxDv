@@ -1,12 +1,12 @@
 <h1 align="center">⚡ FzxDv ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+Apps;UI+%26+UX;React+%7C+Vue+3+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Scalable+Web+Apps;UI+%26+UX+Focused;React+%7C+Vue+3+%7C+TypeScript" />
 </p>
 
 ---
 
-### 🚀 Skills
+### 🚀 What I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,firebase,git,github" />
@@ -14,33 +14,30 @@
 
 ---
 
-### 🧠 Stack & Tools
+### 🧠 Stack & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vite,nodejs,linux,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=vite,nodejs,linux,figma,vercel,python,java,php,bash" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 🔥 Development Focus
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FzxDv&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzxDv&layout=compact&theme=tokyonight&hide_border=true" />
+  ⚡ High-performance Frontend Architectures <br/>
+  ⚡ Scalable Web Systems <br/>
+  ⚡ Clean, Maintainable & Structured Code <br/>
+  ⚡ Real-world Applications & Dashboards
 </p>
 
 ---
 
-### ⚙️ Focus
+### 📈 Contributions & Activity
 
 <p align="center">
-  ⚡ Frontend Performance <br/>
-  ⚡ Web Systems <br/>
-  ⚡ Clean UI & Logic <br/>
-  ⚡ Real-world Projects
+  Consistent commits · Continuous improvement · Shipping features <br/>
+  Focused on clean version control and structured workflows
 </p>
 
 ---
